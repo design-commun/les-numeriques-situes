@@ -10,10 +10,7 @@ weight: 1
 
 L’anthropocène est un terme utilisé pour indiquer l’empreinte des activités humaines dans le temps géologique et physique de la Terre. Cela veut dire que l’extraction minière, l’utilisation d’énergies fossiles, la déforestation, l’acidification et la pollution des océans sont, entre autres, des marqueurs durables de notre présence sur Terre. Dans un futur proche, des scientifiques pourront observer les hausses des gaz à effet de serre liées aux activités industrielles modernes dans les glaces des pôles. Des géologues pourront retrouver aussi des plastiques sédimentés sur l’ensemble de la superficie terrestre, d’ailleurs, ces plastiques sont aujourd’hui appelés “plastiglomérats”[^3].
 
-<figure>
-![Exemple de plastiglomérat](figure01.jpg)
-    <figcaption>Exemple de plastiglomérat</figcaption>
-</figure>
+![Exemple de plastiglomérat](figure01.jpg "Exemple de plastiglomérat")
 
 Les températures moyennes sur le globe terrestre indiquent une tendance à la hausse pour les centaines d’années à venir dûe à nos émissions de gaz à effet de serre (GES) contemporaines. Les océans seront plus chauds, plus acides et plus pollués du fait de plusieurs activités humaines. Les océans captent une partie du réchauffement global et s’acidifent en conséquence. Ces mêmes océans sont aussi pollués depuis les années 1950 par les plastiques et des particules radioactives. Il faut toutefois se rappeler que l’Homme laisse des traces de son activité sur Terre depuis le début de sa vie collective, les indiens d’Amazonie pratiquent la culture sur brûlis et transforment à leur façon la forêt depuis des millénaires, les ouvrages hydrauliques chinois du premier millénaire ont modifié le flux de leurs grands fleuves comme le Yang-Tsé-Kiang (长江). Une équipe de chercheurs a même pu corréler la présence de plomb dans les glaces du Groenland avec les différents évènements qui ont parcouru l’empire romain. Les périodes de croissance favorisaient la frappe de nouvelle monnaie, dont l’extraction minière d’or et sa fonte provoquent l’émanation de plomb dans l’atmosphère. Lors des périodes de crise, la frappe de monnaie diminuait entraînant ainsi la baisse de l’extraction d’or et des émanations de plomb[^4].
 
@@ -25,10 +22,7 @@ Ce qu’on définit par l’anthropocène, le capitalocène, l’anglocène et b
 
 L’histoire de ces développements sont en partie liés à l’usage massif de matières et d’énergie fossile, impliquant l’exploitation généralisée des écosystèmes. L’idée que se fait une société d’elle-même et du monde ne doit pas être séparée de son abondance matérielle[^7]. Ceci est peut-être la première leçon à tirer de l’Anthropocène.
 
-<figure>
-![Mine d’or au Brésil](figure02.jpg)
-    <figcaption>The Serra Pelada Mine (Mine d’or au Brésil)</figcaption>
-</figure>
+![Mine d’or au Brésil](figure02.jpg "The Serra Pelada Mine (Mine d’or au Brésil)")
 
 [^3]: https://www.geosociety.org/gsatoday/archive/24/6/article/i1052-5173-24-6-4.htm
 [^4]: https://www.pnas.org/content/115/22/5726
