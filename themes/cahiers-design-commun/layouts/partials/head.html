@@ -7,9 +7,11 @@
 <meta name="author" content="{{ .Site.Author.Name }}">
 {{- hugo.Generator }}
 
+<link rel="stylesheet" href="{{ "css/interface-0.1.css" | absURL }}" />
 <link rel="stylesheet" href="{{ "css/style.css" | absURL }}?rnd={{ now.Unix }}" />
 {{ range .Site.Params.customCSS -}}
 <link rel="stylesheet" href="{{ . | absURL }}?rnd={{ now.Unix }}">
 {{- end }}
 
+<script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
 <script type="text/javascript" src="js/main.js" defer></script>
