@@ -1,0 +1,15 @@
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="robots" content="index, follow">
+<title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+<meta name="description" content="{{ .Site.Params.Description }}">
+<meta name="author" content="{{ .Site.Author.Name }}">
+{{- hugo.Generator }}
+
+<link rel="stylesheet" href="{{ "css/style.css" | absURL }}?rnd={{ now.Unix }}" />
+{{ range .Site.Params.customCSS -}}
+<link rel="stylesheet" href="{{ . | absURL }}?rnd={{ now.Unix }}">
+{{- end }}
+
+<script type="text/javascript" src="js/main.js" defer></script>

@@ -1,0 +1,11 @@
+name: Cahiers Design Commun
+license: MIT
+licenselink: https://github.com/design-commun/cahiers-design-commun/blob/master/LICENSE
+description:
+homepage: http://designcommun.fr
+tags: ["hugo", "hugo-theme", "paged-js"]
+features:
+min_version: 0.41.
+author:
+  name: Timothée Goguely
+  homepage: https://timothee.goguely.com/
