@@ -5,3 +5,7 @@ theme: cahiers-design-commun
 author:
   name: Gauthier Roussilhe
   homepage: http://gauthierroussilhe.com/fr
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
