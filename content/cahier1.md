@@ -1,9 +1,9 @@
 ---
-title: "Définir un cadre : quelle place pour l’Homme sur quelle Terre ?"
-date: 2020-06-07T18:08:54+02:00
-weight: 1
----
+title: 'Définir un cadre : quelle place pour l’Homme sur quelle Terre ?'
+date: 2020-06-07T18:08:54.000+02:00
+weight: "1"
 
+---
 ## Définir un cadre : quelle place pour l’Homme sur quelle Terre ?
 
 ### Anthropocène
@@ -24,8 +24,34 @@ L’histoire de ces développements sont en partie liés à l’usage massif de 
 
 ![Mine d’or au Brésil](figure02.jpg "The Serra Pelada Mine (Mine d’or au Brésil)")
 
+### Limites planétaires
+
+L’Anthropocène est généralement défini par l’extraction et l’usage massif des énergies fossiles, de nouveaux matériaux (plastique, béton, aluminium), une nouvelle donne géologique (déforestation, agriculture intensive, décharges à ciel ouvert, barrages hydroélectriques, forages, excavation minière, etc.), l’usage massif de fertilisants comme l’azote et le phosphore, le réchauffement climatique, l’extinction de masse des espèces vivantes (faune, flore, insectes, bactéries) et la trace de radionucléides liées à l’usage d’armes nucléaires[^8].
+
+On peut aussi situer l’observation depuis les neuf limites planétaires identifiées par le centre de résilience de Stockholm[^9] en s’appuyer sur les travaux de l’équipe de Will Steffen. ① La première limite est le changement climatique qui est directement associé au réchauffement planétaire. Cette limite observe la concentration de gaz à effet de serre (dont le carbone) dans l’atmosphère, la fonte des glaces aux pôles, le mouvement des systèmes climatiques qui influent sur la température comme El Niño. Cette limite inclut aussi l’apparition de nouveaux risques liés au réchauffement comme la fonte du permafrost en Sibérie qui pourrait relâcher des larges quantités de carbone.
+
+② La seconde limite est l’intégrité de la biosphère, c’est-à-dire la diversité et l’épanouissement des espèces vivantes. La pratique de l’élevage intensif a augmenté la “masse animale” sur Terre mais a drastiquement réduit sa diversité et réduit leur rôle dans les écosystèmes naturels. Dans certaines zones sur Terre la biodiversité se dégrade très vite, notamment dans toutes les zones victimes de déforestation. Des habitats d’animaux disparaissent, réduisant leur chance de survie, des chaînes du vivant se brisent car les sources de nourriture ou d’échange disparaissent.
+
+③ La troisième limite est directement relié à la deuxième : le changement des systèmes terriens. La destruction de forêts pour la création de monocultures (soja au Brésil, huile de palme à Bornéo par exemple) va au-delà de la disparition d’espèces vivantes. Elle appauvrit des sols qui ne jouent pas leur rôle de retenue des eaux et de capture du carbone, comme les forêts par exemple.
+
+④ La quatrième limite est l’usage de l’eau douce et les cycles hydrologiques. L’accès à l’eau douce est primordiale pour les communautés humaines et leurs activités, comme l’agriculture. La modification du cours des rivières et les barrages ont modifié les systèmes hydrologiques, changeant les équilibres environnementaux. De plus, l’augmentation de la température amplifie les sécheresses et le stress hydrique dans de nombreuses régions de la Terre où l’accès à l’eau douce n’est plus une certitude.
+
+⑤ La cinquième limite se situe au niveau des flux biogéochimiques. La transformation des sols par l’agriculture industrielle modifie leur équilibre chimique via l’utilisation massive de phosphore et de nitrogène comme fertilisants. Ces produits deviennent des sources de pollution des sols et des eaux, car ils s’écoulent dans les nappes phréatiques et modifient l’acidité de l’eau. Par exemple les crevettes ont disparu dans certaines zones du golfe du Mexique à cause des fertilisants utilisées dans les fermes américaines et transportés par les rivières jusqu’au golfe[^10].
+
+⑥ L’acidification des océans représente la sixième limite planétaire. Un quart du CO2 émis par l’humanité est dissous dans les océans, modifiant leur chimie et augmentant leur acidité. Ce phénomène met en danger de nombreuses espèces comme le corail et le plancton et les espèces marines à coquilles. Perdre ces espèces entraînerait la baisse des populations des poissons. L’acidité de surface des océans a augmenté de 30% depuis la moitié du 19e siècle et a des implications sur l’ensemble des systèmes planétaires.
+
+⑦ La concentration d’aérosol, la septième limite, comme la vapeur d’eau influe sur la formation des nuages et sur les systèmes de circulation atmosphérique, comme la mousson. La concentration d’aérosols change la formation des nuages et donc la quantité de rayonnement solaire absorbée ou reflétée par ceux-ci. Ceci influe sur la température de surface de la Terre. De plus, les activités humaines augmentent la concentration de polluants, de poussière et du fumée dans les aérosols, augmentation la toxicité de l’air pour les espèces vivantes dont les humains.
+
+⑧ La couche d’ozone représente la huitième limite car elle filtre la proportion d’ultraviolets traversant la stratosphère pour atteindre la Terre. Une augmentation des U.V. a des effets nocifs sur la santé des humaines et de nombreuses espèces terrestres et marines. La couche d’ozone peut être mis en danger par des gaz comme les hydrofluorocarbures utilisés dans les réfrigérateurs ou les climatisations. Cependant, depuis le protocole de Montréal la concentration de ces gaz s’est stabilisé.
+
+⑨ La neuvième limite caractérise toutes les nouvelles entités chimiques identifiées qui pourraient jouer un rôle sur les cycles planétaires, comme les métaux lourds et les déchets radioactifs. Ces composés peuvent mettre en danger de nombreuses espèces vivantes. Pour l’instant il n’est pas possible de définir précisément un seuil unifié mais les risques qui y sont attachés sont trop important pour être mis de côté.
+
+
 [^3]: https://www.geosociety.org/gsatoday/archive/24/6/article/i1052-5173-24-6-4.htm
 [^4]: https://www.pnas.org/content/115/22/5726
 [^5]: https://iopscience.iop.org/article/10.1088/1748-9326/aabb32/pdf
 [^6]: https://www.cambridge.org/core/journals/journal-of-asian-studies/article/asian-anthropocene-electricity-and-fossil-developmentalism/AE16FED6E748133591C25081E33CC777
 [^7]: Abondance et Liberté
+[^8]: https://science.sciencemag.org/content/351/6269/aad2622
+[^9]: https://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html
+[^10]: https://coastalscience.noaa.gov/news/price-of-shrimp-affected-by-gulf-of-mexico-dead-zone/
