@@ -1,0 +1,133 @@
+:root {
+    --serif: "Times New Roman", serif;
+    --sans-serif: "NHaasGroteskTXStd-55Rg", "Neue Haas Grotesk Text Std", "Arial", sans-serif;
+}
+
+body {
+    font-family: var(--serif);
+    line-height: 1.333;
+    orphans: 3;
+    width: 3;
+    counter-reset: figureNumber;
+}
+
+/* Titres & sous-titres */
+h1, h2, h3, h4 {
+    font-family: var(--sans-serif);
+    font-weight: normal;
+}
+p + h3,
+figure + h3 {
+    margin-top: 3rem;
+}
+
+/* Texte */
+p {
+    margin-bottom: 1.333rem;
+}
+
+/* Figures */
+figure {
+    margin: 1.333rem 0;
+    break-inside: avoid;
+}
+figure > img {
+    width: 100%;
+}
+figcaption {
+    font-family: var(--sans-serif);
+    font-style: italic;
+    font-size: smaller;
+    margin-top: 0.75rem;
+    margin-bottom: 1.333rem;
+    counter-increment: figureNumber;
+}
+figcaption::before {
+  content: "Fig. "counter(figureNumber)" : ";
+}
+
+/* Liens */
+a {
+    color: black;
+    text-decoration: none;
+}
+
+/* Citations */
+blockquote {
+    margin: 1.333rem 0;
+    border-top: 1pt solid black;
+    border-bottom: 1pt solid black;
+    font-size: larger;
+}
+
+/* Encadrés */
+aside {
+    border-top: 1pt solid black;
+    border-bottom: 1pt solid black;
+    padding: 1.333rem 0;
+    margin: 1.333rem 0;
+    break-inside: avoid;
+}
+aside > h4 {
+    margin-top: 0;
+}
+
+/* Notes */
+.footnotes {
+    break-inside: avoid;
+    font-family: var(--sans-serif);
+    font-size: smaller;
+}
+.footnote-ref {
+    font-size: smaller;
+    font-family: var(--sans-serif);
+}
+.footnote-backref {
+    display: none;
+}
+.footnotes > hr {
+    border: none;
+    border-top: 1pt solid black;
+    margin: 1.333rem 0;
+}
+.footnotes ol {
+    padding-left: 1em;
+}
+
+main > * {
+    margin-top: 0;
+}
+
+@media print{
+    @page {
+        size: 140mm 216mm; /* Format Digest */
+        margin-top: 10mm;
+        margin-bottom: 20mm;
+        /*bleed: 6mm;
+        marks: crop cross;*/
+    }
+    @page:left {
+        margin-left: 15mm;
+        margin-right: 15mm;
+        @bottom-left {
+            content: counter(page);
+            font-family: var(--sans-serif);
+            font-size: smaller;
+        }
+    }
+    @page:right {
+        margin-left: 15mm;
+        margin-right: 15mm;
+        @bottom-right {
+            content: counter(page);
+            font-family: var(--sans-serif);
+            font-size: smaller;
+        }
+    }
+    h1, h2 {
+        break-after: right;
+    }
+    h2 {
+        break-before: right;
+    }
+}
