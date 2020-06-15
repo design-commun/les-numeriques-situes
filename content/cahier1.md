@@ -54,22 +54,19 @@ En écho aux limites planétaires identifiées précédemment, des objectifs de 
 
 L’objectif le plus connu est celui du seuil des 2°C. Il consiste à réduire et stabiliser les émissions de gaz à effet de serre afin de limiter leur concentration à 480 ppm (parts par million) dans l’atmosphère d’ici 2100. Cet objectif de 2°C indique une température moyenne de surface sur Terre de +2°C par rapport aux niveaux pré-industriels. L’augmentation de la température moyenne globale de +2°C représente un changement considérable au vu de sa rapidité et aura des effets hétéroclites partout sur Terre. Certaines régions iront bien au-delà des +2°C, d’autres resteront peut-être en dessous. Pour réduire et stabiliser les émissions de gaz à effet de serre il faut modifier nos modes de vie et s’appuyer beaucoup moins sur les énergies fossiles, dites carbonées. On exprime généralement l’intensité en carbone d’une économie en divisant les émissions annuelles d’un pays par sa population. On appelle cela l’inventaire national et il s’écrit de la façon suivante : tonne d’équivalent CO2 par personne par an (tCO2eq/pers/an). La France se situe à peu près à 6,6 tCO2eq/pers/an en 2014[^11].
 
-<aside>
-    <h4>Attention aux moyennes !</h4>
-    Une moyenne est un objet statistique qui ne représente pas une réalité individuelle. Par exemple, l’empreinte carbone ne donne pas à voir les disparités sociales dans les émissions de carbone. D’après Chancel et Piketty, les 1 % les plus riches (en revenu) aux États-Unis émettent 320 tCO2e/pers/an, loin devant la moyenne, déjà phénoménale, de 20 tCO2e/pers/an. Il faut toujours faire attention que les objets statistiques ne gomment pas les disparités socio-économiques car les politiques de transition doivent s’articuler autour de celles-ci.
-</aside>
+{{< aside >}}
+#### Attention aux moyennes !
+Une moyenne est un objet statistique qui ne représente pas une réalité individuelle. Par exemple, l’empreinte carbone ne donne pas à voir les disparités sociales dans les émissions de carbone. D’après Chancel et Piketty, les 1 % les plus riches (en revenu) aux États-Unis émettent 320 tCO2e/pers/an, loin devant la moyenne, déjà phénoménale, de 20 tCO2e/pers/an. Il faut toujours faire attention que les objets statistiques ne gomment pas les disparités socio-économiques car les politiques de transition doivent s’articuler autour de celles-ci.
+{{< /aside >}}
 
 ![Schéma 2](media/schema2.png "Émissions globales de gaz à effet de serre en 2014 (tonnes équivalent CO2 / personne / an")
 
 Stabiliser la température moyenne globale à 2°C consiste à viser à une moyenne mondiale de 2 tCO2eq/pers/an. Aujourd’hui 80% de la population mondiale est au dessus de cet objectif. Certains de très loin, comme les USA (20 tCO2eq/pers/an en 2014), d’autres pays sont proches de cet objectif mais augmentent leurs émissions au lieu de les réduire comme l’Inde par exemple (2 tCO2eq/pers/an en 2014). Il faut être attentif à ne pas confondre l’inventaire national et l’empreinte carbone. Contrairement à l’inventaire national, l’empreinte carbone comptabilise les émissions d’équivalent carbone “embarquées” dans tous les produits importés et consommés dans un pays. L’empreinte carbone en France est bien plus élevée que son inventaire car la France importe de nombreux produits “intensifs en équivalent carbone” : 10,8 tCO2eq/pers/an en empreinte carbone en 2014, 6,6 tCO2eq/pers/an en inventaire nationale[^12].
 
-<aside>
-    <h4>Objectifs de l’Accord de Paris</h4>
-    <figure>
-        <img src="media/encadre1.png" alt="Encadré 1">
-        <figcaption>Schéma</figcaption>
-    </figure>
-</aside>
+{{< aside >}}
+#### Objectifs de l’Accord de Paris
+![Encadré 1](media/encadre1.png "Schéma")
+{{< /aside >}}
 
 Pour atteindre 0 tCO2eq émis il est nécessaire de capturer autant de carbone que l’on en émet. Cela implique de multiplier les systèmes qui capturent et fixent le carbone, comme les forêts. Atteindre la neutralité carbone ne consiste donc pas à ne plus émettre de gaz à effet de serre mais consiste plutôt à compenser toutes ses émissions. Il faut toutefois nuancer ces objectifs avec la réalité chimique du carbone. Cette molécule émise maintenant par un pot d’échappement de voiture mettra entre 10 et 30 ans à atteindre son effet réchauffant maximum dans l’atmosphère et elle mettra entre 50 à 10 000 ans à disparaître de l’atmosphère. Le réchauffement actuel est le résultat d’émissions datant de 20 ans en moyenne et une partie du carbone émis depuis le début de la révolution industrielle mettra 10 000 ans à s’épurer de l’atmosphère. L’anthropocène et ses facteurs (réchauffement, etc.) n’est pas une crise avec un retour à la normale possible. C’est un changement durable des conditions de vie sur Terre.
 
