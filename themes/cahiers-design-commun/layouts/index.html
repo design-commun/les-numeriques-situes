@@ -4,7 +4,7 @@
         <h1>{{.Title}}</h1>
     </header>
     {{ range .Pages.ByWeight.Reverse }}
-    	{{ .Content }}
+      {{ partial "content.html" .Content }}
     {{ end }}
 </main>
 {{ end }}

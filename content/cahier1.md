@@ -1,10 +1,10 @@
 ---
-title: 'Cahier №1 – Définir un cadre : quelle place pour l’Homme sur quelle Terre ?'
+title: 'Cahier n°1 – Définir un cadre : quelle place pour l’Homme sur quelle Terre ?'
 date: 2020-06-07T18:08:54.000+02:00
 weight: "1"
 ---
 
-## Cahier №1 – Définir un cadre : quelle place pour l’Homme sur quelle Terre ?
+## Cahier n°1 – Définir un cadre : quelle place pour l’Homme sur quelle Terre ?
 
 ### Anthropocène
 
