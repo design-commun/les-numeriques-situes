@@ -4,7 +4,7 @@ date: 2020-06-07T18:08:54+02:00
 weight: 0.1
 ---
 
-## Introduction
+### Introduction
 
 Le numérique a souvent été une affirmation, voire un injonction. Pour ses promoteurs, le numérique s’inscrit dans le vecteur du progrès. De fait, son développement a été quasiment non-négociable pour les sociétés modernes de la fin du XX<sup>e</sup> siècle. Aujourd’hui le numérique devient une question. On peut dire schématiquement qu’il aura fallu environ 30 ans depuis le déploiement de l’infrastructure numérique dans la société civile pour qu’un point d’exclamation devienne un point d’interrogation.
 
